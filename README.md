@@ -20,6 +20,21 @@ Follow the steps below to set up and run the project locally.
 
 ### 🔹 Backend
 Navigate to the backend directory and install dependencies:
-```bash
+
 cd backend
 npm install
+
+## 🔧 Getting Started
+
+Follow the instructions below to set up and run the project locally on your machine.
+
+---
+
+## 📦 Install Dependencies
+
+### 🔹 Frontend  
+Navigate to the frontend directory and install frontend dependencies:
+
+cd frontend
+npm install
+```bash
