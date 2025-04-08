@@ -34,7 +34,7 @@ Follow the instructions below to set up and run the project locally on your mach
 
 ### 🔹 Frontend  
 Navigate to the frontend directory and install frontend dependencies:
-
+```bash
 cd frontend
 npm install
-```bash
+
